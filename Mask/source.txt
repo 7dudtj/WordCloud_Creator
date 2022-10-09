@@ -1,0 +1,14 @@
+< apple.jpeg >
+src: https://www.apple.com/
+
+< carrot_market.png >
+src: https://www.daangn.com/
+
+< cu.png >
+src: https://cu.bgfretail.com/index.do
+
+< google.jpeg >
+src: https://www.google.com/
+
+< lotte.jpeg >
+src: http://www.lotte.co.kr/main.do
